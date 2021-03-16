@@ -1,0 +1,22 @@
+{
+  "name": "realtime-chat-app",
+  "version": "1.0.0",
+  "description": "Real Time Chat App With Node.js And Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LIJOMLOYID/realtime-chat-app.git"
+  },
+  "author": "Lijo M Loyid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LIJOMLOYID/realtime-chat-app/issues"
+  },
+  "homepage": "https://github.com/LIJOMLOYID/realtime-chat-app#readme",
+  "dependencies": {
+    "socket.io": "^4.0.0"
+  }
+}
