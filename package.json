@@ -18,5 +18,8 @@
   "homepage": "https://github.com/LIJOMLOYID/realtime-chat-app#readme",
   "dependencies": {
     "socket.io": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
   }
 }
